@@ -1,8 +1,8 @@
 [submodule "isl"]
-        path = isl
-        url = git://repo.or.cz/isl.git
-        ignore = untracked
+    path = isl
+    url = https://github.com/cristianrcv/isl.git
+    ignore = untracked
 [submodule "osl"]
-	path = osl
-	url = https://github.com/periscop/openscop.git
-        ignore = untracked
+    path = osl
+    url = https://github.com/periscop/openscop.git
+    ignore = untracked
